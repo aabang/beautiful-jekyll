@@ -3,7 +3,7 @@ layout: post
 title: Sometimes I eat paste
 subtitle: Horrendous and fictional admissions by Andrew Abang
 cover-img: /assets/img/platypus-cover.jpeg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/platypus-thumb.jpeg
 share-img: /assets/img/platypus-cover.jpeg
 tags: [symbolism, test]
 ---
